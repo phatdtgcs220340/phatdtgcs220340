@@ -38,7 +38,7 @@ Aspiring **Full Stack Software Engineer** | Passionate about building exceptiona
 
 ## 📌 Projects & Highlights
 
-- [🛠️ .dotfiles config repo](#)  
+- [🛠️ .dotfiles config repo](https://github.com/phatdtgcs220340/.dotfiles)  
   My personalized dotfiles for a productive terminal experience (Neovim, Zsh, Tmux, etc.)
 
 - [🎓 Education System Project (Coming Soon!)](#)  
