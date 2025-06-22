@@ -41,7 +41,7 @@ Aspiring **Full Stack Software Engineer** | Passionate about building exceptiona
 - [🛠️ .dotfiles config repo](https://github.com/phatdtgcs220340/.dotfiles)  
   My personalized dotfiles for a productive terminal experience (Neovim, Zsh, Tmux, etc.)
 - [🛠️ nix config repo](https://github.com/phatdtgcs220340/nix-config)  
-  My configuration using flake system for cross machines workflow ensurement 
+  My configuration using flake system for across machines workflow ensurement 
 - [🎓 Education System Project (Coming Soon!)](#)  
   A comprehensive education system, built as my final school project using React & Spring Boot.
 
